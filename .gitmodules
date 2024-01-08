@@ -1,3 +1,0 @@
-[submodule "shap"]
-	path = shap
-	url = https://github.com/lasse-meixner/shap.git
